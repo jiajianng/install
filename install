@@ -2,7 +2,7 @@
 # This script installs to /usr/local only. To install elsewhere you can just
 # untar https://github.com/Homebrew/brew/tarball/master anywhere you like or
 # change the value of HOMEBREW_PREFIX.
-HOMEBREW_PREFIX = "/usr/local"
+HOMEBREW_PREFIX = "/Users/Hackathon/homebrew"
 HOMEBREW_CACHE = "#{ENV["HOME"]}/Library/Caches/Homebrew"
 HOMEBREW_REPO = "https://github.com/Homebrew/brew"
 HOMEBREW_CORE = "https://github.com/Homebrew/Homebrew-core"
